@@ -1,0 +1,18 @@
+# Build and ROS2 artifacts
+build/
+install/
+log/
+
+# Workspace tools
+.colcon_workspaces/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# Misc
+*.log
