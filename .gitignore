@@ -1,0 +1,21 @@
+# Build and ROS2 artifacts
+build/
+install/
+log/
+
+# Workspace tools
+.colcon_workspaces/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# Ignore cloned repo we already have under src
+src/DSS_ROS2_2026/
+
+# Misc
+*.log
