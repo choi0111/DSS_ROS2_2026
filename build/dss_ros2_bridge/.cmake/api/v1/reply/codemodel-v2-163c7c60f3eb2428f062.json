@@ -1,0 +1,287 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-f4fd0809213a975ee312.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23
+					]
+				},
+				{
+					"build" : "dss_ros2_bridge__py",
+					"jsonFile" : "directory-dss_ros2_bridge__py-3e169d0c36afe6e75162.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/root/ros2_ws/build/dss_ros2_bridge/dss_ros2_bridge__py",
+					"targetIndexes" : 
+					[
+						10
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "dss_ros2_bridge",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DSSDemoNode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSSDemoNode-8b9d520da7dd9cd3cbd0.json",
+					"name" : "DSSDemoNode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSSToROSClockNode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSSToROSClockNode-242397107f32f4564eeb.json",
+					"name" : "DSSToROSClockNode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSSToROSGpsNode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSSToROSGpsNode-026ad0ac3ed5eeb85f19.json",
+					"name" : "DSSToROSGpsNode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSSToROSIMUNode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSSToROSIMUNode-1675512148fe1e86ca7d.json",
+					"name" : "DSSToROSIMUNode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSSToROSImageNode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSSToROSImageNode-183aea08b168711dd99e.json",
+					"name" : "DSSToROSImageNode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSSToROSPointCloudNode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSSToROSPointCloudNode-aa47d1a03b38eb48a015.json",
+					"name" : "DSSToROSPointCloudNode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_dss_ros2_bridge_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_dss_ros2_bridge_egg-b66bafeab7c14ceea98d.json",
+					"name" : "ament_cmake_python_build_dss_ros2_bridge_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_dss_ros2_bridge::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_dss_ros2_bridge-106906ffe48cb16a2c28.json",
+					"name" : "ament_cmake_python_symlink_dss_ros2_bridge",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dss_ros2_bridge::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dss_ros2_bridge-657b38382ecd42a10844.json",
+					"name" : "dss_ros2_bridge",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dss_ros2_bridge__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dss_ros2_bridge__cpp-c13c1f680077a101de51.json",
+					"name" : "dss_ros2_bridge__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "dss_ros2_bridge__py::@a6a666259a200e07a499",
+					"jsonFile" : "target-dss_ros2_bridge__py-196e40b49f8d49052789.json",
+					"name" : "dss_ros2_bridge__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dss_ros2_bridge__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dss_ros2_bridge__rosidl_generator_c-67ebc3c4c4577a7419de.json",
+					"name" : "dss_ros2_bridge__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dss_ros2_bridge__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dss_ros2_bridge__rosidl_generator_py-083b04dab73fb446425d.json",
+					"name" : "dss_ros2_bridge__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dss_ros2_bridge__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dss_ros2_bridge__rosidl_typesupport_c-8da00bff2aa1627ccc9a.json",
+					"name" : "dss_ros2_bridge__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dss_ros2_bridge__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dss_ros2_bridge__rosidl_typesupport_c__pyext-324f6099b8e674563bfd.json",
+					"name" : "dss_ros2_bridge__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dss_ros2_bridge__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dss_ros2_bridge__rosidl_typesupport_cpp-2778e7533d52e8723db1.json",
+					"name" : "dss_ros2_bridge__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dss_ros2_bridge__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dss_ros2_bridge__rosidl_typesupport_fastrtps_c-26472d1a4d3146094a3c.json",
+					"name" : "dss_ros2_bridge__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dss_ros2_bridge__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dss_ros2_bridge__rosidl_typesupport_fastrtps_c__pyext-09143e3e3f846bdd9e4f.json",
+					"name" : "dss_ros2_bridge__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dss_ros2_bridge__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dss_ros2_bridge__rosidl_typesupport_fastrtps_cpp-4f95cd007a1ef7d89069.json",
+					"name" : "dss_ros2_bridge__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dss_ros2_bridge__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dss_ros2_bridge__rosidl_typesupport_introspection_c-abc6399fc0afe75ddb8b.json",
+					"name" : "dss_ros2_bridge__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dss_ros2_bridge__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dss_ros2_bridge__rosidl_typesupport_introspection_c__pyext-56008291fd3b8fa1433f.json",
+					"name" : "dss_ros2_bridge__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dss_ros2_bridge__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dss_ros2_bridge__rosidl_typesupport_introspection_cpp-c6856bdee14d21c29c90.json",
+					"name" : "dss_ros2_bridge__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dss_ros2_bridge_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dss_ros2_bridge_uninstall-92312e0756776da78bc8.json",
+					"name" : "dss_ros2_bridge_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-37d75c8006bb158ae6f1.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/root/ros2_ws/build/dss_ros2_bridge",
+		"source" : "/root/ros2_ws/src/dss_ros2_bridge/dss_ros2_bridge"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

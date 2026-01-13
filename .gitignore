@@ -1,0 +1,11 @@
+# Minimal ignores only
+# IDEs
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Misc
+*.log

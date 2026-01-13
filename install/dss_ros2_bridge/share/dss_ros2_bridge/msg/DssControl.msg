@@ -1,0 +1,1 @@
+/root/ros2_ws/src/dss_ros2_bridge/dss_ros2_bridge/msg/DssControl.msg
